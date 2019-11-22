@@ -45,4 +45,4 @@ int strrindex(char s[],char t[])
 \end{ccode}
 ```
 效果如下，还蛮好的
-!['figure']('https://wx2.sinaimg.cn/mw1024/007P0Y0dly1g974oh7je2j30mj0estb5.jpg')
+!['figure'](http://wx2.sinaimg.cn/mw1024/007P0Y0dly1g974oh7je2j30mj0estb5.jpg)
