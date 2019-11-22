@@ -10,7 +10,7 @@ tags:
     - latex
 ---
 
-#如何创建latex中minted新环境
+# 如何创建latex中minted新环境
 minted使latex渲染代码的一个宏包，支持中文注释，昨天用latex写一下C语言作业的报告，listings包不知道怎么都法显示中文注释，于是转战minted。
 显示结果确实很漂亮，但是每导入一个代码块就要复制一遍参数设置，着实很麻烦。
 
